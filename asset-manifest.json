@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0397537.css",
+    "main.js": "/static/js/main.fb1ae6df.js",
+    "static/js/592.a829f9e9.chunk.js": "/static/js/592.a829f9e9.chunk.js",
+    "static/media/demovideo.mp4": "/static/media/demovideo.f6ffb38e01c7cc6e7663.mp4",
+    "static/media/nibhas.png": "/static/media/nibhas.561b2b2649256c07951a.png",
+    "index.html": "/index.html",
+    "main.a0397537.css.map": "/static/css/main.a0397537.css.map",
+    "main.fb1ae6df.js.map": "/static/js/main.fb1ae6df.js.map",
+    "592.a829f9e9.chunk.js.map": "/static/js/592.a829f9e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0397537.css",
+    "static/js/main.fb1ae6df.js"
+  ]
+}
